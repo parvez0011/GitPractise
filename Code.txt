@@ -1,2 +1,6 @@
 First line
+<<<<<<< HEAD
 Line bt parvez
+=======
+new line by master
+>>>>>>> bad53177856f0f5efe555805445c7af1e6b9b158
